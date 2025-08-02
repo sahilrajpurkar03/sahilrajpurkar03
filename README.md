@@ -19,6 +19,8 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,ros,jenkins,docker,git,tensorflow,pytorch,matlab,linux,vscode" />
+  <img src="https://raw.githubusercontent.com/soofiyan/soofiyan/main/assets/isaacsim.png" height="30" alt="Isaac Sim" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gazebo_Logo.svg/320px-Gazebo_Logo.svg.png" height="30" alt="Gazebo" />
 </p>
 
 ---
