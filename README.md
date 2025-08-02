@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Sahil Rajpurkar
 
-<!--
-**sahilrajpurkar03/sahilrajpurkar03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🔬 Robotics Engineer | 🎓 TU Dortmund | 🤖 Automation & Cognitive Systems  
+📍 Dortmund, Germany | 📫 sahilrajpurkar1998@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/sahilrajpurkar)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🧠 M.Sc. in Automation and Robotics from Technical University of Dortmund  
+- 🎓 B.Tech. in Electronics & Telecommunication from K.J. Somaiya College of Engineering  
+- 🔬 Currently working on AI, robotics, embedded systems, and automation  
+
+---
+
+⭐️ From [sahilrajpurkar03](https://github.com/sahilrajpurkar03)
