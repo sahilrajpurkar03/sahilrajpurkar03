@@ -1,16 +1,42 @@
-## Hi there 👋 I'm Sahil Rajpurkar
+<h1 align="center">Hi there 👋, I'm Sahil Rajpurkar</h1>
+<h3 align="center">Robotics • Automation • AI</h3>
 
-👨‍🔬 Robotics Engineer | 🎓 TU Dortmund | 🤖 Automation & Cognitive Systems  
-📍 Dortmund, Germany | 📫 sahilrajpurkar1998@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/sahilrajpurkar)
-
----
-
-### 🚀 About Me
-
-- 🧠 M.Sc. in Automation and Robotics from Technical University of Dortmund  
-- 🎓 B.Tech. in Electronics & Telecommunication from K.J. Somaiya College of Engineering  
-- 🔬 Currently working on AI, robotics, embedded systems, and automation  
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+</p>
 
 ---
 
-⭐️ From [sahilrajpurkar03](https://github.com/sahilrajpurkar03)
+🧠 **M.Sc. Robotics @ TU Dortmund**  
+🔬 Research Assistant | LiDAR, ROS2, AI-based Robotics  
+🛠️ Robotics | Embedded Systems | Machine Learning  
+🌍 Based in Dortmund | 🇮🇳 Originally from Mumbai  
+📬 sahilrajpurkar1998@gmail.com
+
+---
+
+### 🔧 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,ros,embedded,docker,git,tensorflow,pytorch,matlab,linux,vscode" />
+</p>
+
+---
+
+### 🚀 Recent Highlights
+
+- 🤖 Designing autonomous systems in **ROS2 + NVIDIA Isaac Sim**  
+- 🏓 Built a robotic **air hockey system** with AI & manual modes  
+- 📡 Researching drone interference & RF signal detection with ML
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahilrajpurkar)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilrajpurkar1998@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sahilrajpurkar03)
+
+---
+
+⭐️ *Thanks for stopping by!*
