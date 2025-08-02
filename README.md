@@ -29,7 +29,7 @@
 
 - 🤖 Designing autonomous systems in **ROS2 + NVIDIA Isaac Sim**  
 - 🏓 Built a robotic **air hockey system** with AI & manual modes  
-- 📡 Researching drone interference & RF signal detection with ML
+- 📦 Radar-based object detection for smart logistics
 
 ---
 
