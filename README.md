@@ -11,7 +11,8 @@
 🔬 Research Assistant | LiDAR, ROS2, AI-based Robotics  
 🛠️ Robotics | Embedded Systems | Machine Learning  
 🌍 Based in Dortmund | 🇮🇳 Originally from Mumbai  
-📬 sahilrajpurkar1998@gmail.com
+📬 https://sahilrajpurkar03.github.io/
+
 
 ---
 
